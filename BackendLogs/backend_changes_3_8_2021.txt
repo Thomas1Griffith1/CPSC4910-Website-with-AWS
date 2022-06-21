@@ -1,0 +1,4 @@
+MMM - Added new improved api call for submitting application
+MMM - Added new API for handling new requirment changes
+MMM - Added new API for getting list of drivers attached to a single sponsor
+MMM - New table created called Sponsorships and revised the User table
